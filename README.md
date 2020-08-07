@@ -7,4 +7,8 @@ tags:
   - markdown
 ---
 
-存一下自己收集的各类文档。
+
+
+[code principle]([https://github.com/ludehui/DocRepo/tree/master/code%20principle](https://github.com/ludehui/DocRepo/tree/master/code principle))
+
+[linux](https://github.com/ludehui/DocRepo/tree/master/linux)
