@@ -9,6 +9,6 @@ tags:
 
 
 
-[code principle]([https://github.com/ludehui/DocRepo/tree/master/code%20principle](https://github.com/ludehui/DocRepo/tree/master/code principle))
+[code principle](https://github.com/ludehui/DocRepo/tree/master/code%20principle](https://github.com/ludehui/DocRepo/tree/master/code principle)
 
 [linux](https://github.com/ludehui/DocRepo/tree/master/linux)
